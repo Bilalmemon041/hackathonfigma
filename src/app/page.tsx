@@ -24,7 +24,7 @@ export default function Home() {
             src="/chair.jpeg"
             className="mb-4 object-cover transition-transform duration-300 ease-in-out group-hover:scale-110"
           />
-          <div className="text-center">
+          <div className="">
             The Dendy Chair <br /> £250
           </div>
         </div>
@@ -36,6 +36,9 @@ export default function Home() {
             src="/light.jpeg"
             className="h-[262px] object-cover transition-transform duration-300 ease-in-out group-hover:scale-110"
           />
+            <div className="mt-5">
+            The Dendy Chair <br /> £250
+          </div>
         </div>
         <div className="group">
           <Image
@@ -45,7 +48,7 @@ export default function Home() {
             src="/table1.jpeg"
             className="h-[260px] mb-4 object-cover transition-transform duration-300 ease-in-out group-hover:scale-110"
           />
-          <div className="text-center">
+          <div className="">
             The Stanley Table <br /> £125
           </div>
         </div>
@@ -57,7 +60,7 @@ export default function Home() {
             src="/yallow.jpeg"
             className="h-[260px] mb-4 object-cover transition-transform duration-300 ease-in-out group-hover:scale-110"
           />
-          <div className="text-center">
+          <div className="">
             New Lamp <br /> £250
           </div>
         </div>
@@ -69,7 +72,7 @@ export default function Home() {
             src="/white.jpeg"
             className="h-[260px] mb-4 object-cover transition-transform duration-300 ease-in-out group-hover:scale-110"
           />
-          <div className="text-center">
+          <div className="">
             Andel Vase <br /> £95
           </div>
         </div>
